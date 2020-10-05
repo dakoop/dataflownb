@@ -1,4 +1,4 @@
 title: Dataflow Notebooks
 description: Enhanced Jupyter Notebooks that use robust cell references to enable dataflow execution of notebooks 
 remote_theme: poole/hyde
-baseurl: /dataflownb/
+baseurl:
